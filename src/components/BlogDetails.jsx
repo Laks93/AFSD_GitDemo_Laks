@@ -7,7 +7,7 @@ const BlogDetails = () => {
 
   return (
     <div>
-      <h2>Blog Detail - {id}</h2>
+      <h2>Details of the blog - {id}</h2>
     </div>
   );
 };
